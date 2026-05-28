@@ -905,10 +905,11 @@ Implemented:
 
 ## Author
 
-Built by **CRM Solutions Lab**
+Built by **Iosif Castrucci**
 
-GitHub: `iosif castrucci`
+GitHub: `iosif-castrucci-hub`
 Email: `contact.iosifcastrucci@gmail.com`
+
 
 ---
 
