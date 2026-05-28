@@ -6,6 +6,9 @@ This project demonstrates how to build an automated phishing email analysis work
 
 ---
 
+![n8n Workflow Overview](flow_demo_alertP.png)
+![n8n Workflow Overview](flow_demo_alertP1.png)
+
 ## Project Overview
 
 The goal of this project is to automate the initial analysis of suspicious emails.
